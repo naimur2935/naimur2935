@@ -2,9 +2,13 @@
 
 # Hi there! 👋 I'm Md Naimur Rahman
 
-<h3 align='center'>
+<h4 align=''>
 I'm a passionate MERN (MongoDB, Express.js, React.js, Node.js) stack web developer with a keen interest in creating scalable and efficient web applications. I love turning ideas into reality through the power of code.
-</h3>
+</h4>
+
+
+## 🚀 Status 
+
 
 <p align='center'><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=naimur8606&theme=transparent&hide_border=true" alt="GitHub Streak" /></a></p>
 
@@ -71,6 +75,8 @@ I'm always eager to expand my knowledge and currently learning `Next.JS` .
 - **Facebook:** [Md Naimur Rahman](https://www.facebook.com/mdnaimurrahman8606/)
 - **Facebook:** [Coding Bangla](http://www.youtube.com/@codingbangla1)
 - **Email:** naimur2935@gmail.com
+
+
 
 Feel free to reach out if you have any questions, suggestions, or just want to chat about technology and web development. I'm always open to new opportunities and collaborations!
 
