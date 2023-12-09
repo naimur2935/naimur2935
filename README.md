@@ -90,20 +90,17 @@ I'm always eager to expand my knowledge and currently learning `Next.JS` .
 
 <br>
 
-## 🚀 Status 
+## 🚀 Summary 
 
-<p align='center'>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=naimur8606&theme=transparent" alt="GitHub Streak" /></a>
-</p>
-
-<br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naimur8606&theme=transparent)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naimur8606&theme=transparent)
+<>
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naimur8606&theme=transparent)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naimur8606&theme=transparent)
 
+</>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naimur8606&theme=transparent)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naimur8606&theme=transparent&utcOffset=8)
