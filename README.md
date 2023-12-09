@@ -90,6 +90,8 @@ I'm always eager to expand my knowledge and currently learning `Next.JS` .
 
 <br>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naimur8606&theme=transparent)
+
 Feel free to reach out if you have any questions, suggestions, or just want to chat about technology and web development. I'm always open to new opportunities and collaborations!
 
 Happy coding! 🚀
