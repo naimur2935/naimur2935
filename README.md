@@ -1,20 +1,21 @@
 ![logo](https://raw.githubusercontent.com/naimur8606/naimur8606/main/Images/git%20cover.jpg)
 
 # Hi there! 👋 I'm Md Naimur Rahman
-
+<br>
 
 ## 🧑‍💻 About Me
 
 
-<h4 align=''>
+<h3>
 I'm a passionate MERN (MongoDB, Express.js, React.js, Node.js) stack web developer with a keen interest in creating scalable and efficient web applications. I love turning ideas into reality through the power of code.
-</h4>
-
+</h3>
+<br>
 
 ## 🚀 Status 
 
-
 <p align='center'><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=naimur8606&theme=transparent&hide_border=true" alt="GitHub Streak" /></a></p>
+
+<br>
 
 ## 💻 Technologies & Tools 
 
@@ -62,6 +63,7 @@ I'm a passionate MERN (MongoDB, Express.js, React.js, Node.js) stack web develop
 <!-- ## 🚀 What I'm Currently Working On
 
 I'm currently working on [project name], where I'm [brief description of your current project]. I'm excited about [mention any challenges or interesting aspects of your project]. -->
+<br>
 
 ## 🔧 Skills
 
@@ -69,9 +71,13 @@ I'm currently working on [project name], where I'm [brief description of your cu
 - **Tools:** Visual Studio Code, Git, Postman
 - **Soft Skills:** Problem-solving, teamwork, communication
 
+<br>
+
 ## 🌱 What I'm Learning
 
 I'm always eager to expand my knowledge and currently learning `Next.JS` .
+
+<br>
 
 ## 📫 Let's Connect
 
@@ -80,7 +86,7 @@ I'm always eager to expand my knowledge and currently learning `Next.JS` .
 - **Facebook:** [Coding Bangla](http://www.youtube.com/@codingbangla1)
 - **Email:** naimur2935@gmail.com
 
-
+<br>
 
 Feel free to reach out if you have any questions, suggestions, or just want to chat about technology and web development. I'm always open to new opportunities and collaborations!
 
