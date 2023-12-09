@@ -93,17 +93,19 @@ I'm always eager to expand my knowledge and currently learning `Next.JS` .
 ## 🚀 Summary 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naimur8606&theme=transparent)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naimur8606&theme=transparent" alt="GitHub Profile Summary Cards">
+</p>
 
-<>
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naimur8606&theme=transparent)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naimur8606&theme=transparent" alt="Repos per Language">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naimur8606&theme=transparent" alt="Most Commit Language">
+</p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naimur8606&theme=transparent)
-
-</>
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naimur8606&theme=transparent)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naimur8606&theme=transparent&utcOffset=8)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naimur8606&theme=transparent&utcOffset=8" alt="Repos per Language">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naimur8606&theme=transparent" alt="Most Commit Language">
+</p>
 
 Feel free to reach out if you have any questions, suggestions, or just want to chat about technology and web development. I'm always open to new opportunities and collaborations!
 
