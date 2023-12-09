@@ -9,11 +9,7 @@ I'm a passionate MERN (MongoDB, Express.js, React.js, Node.js) stack web develop
 ## 💻 Technologies & Tools 
 
 - **Frontend:** React.js, HTML, CSS, JavaScript, Tailwind CSS, Bootstrap
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Version Control:** Git, GitHub
-- **Other:** RESTful APIs, JSON, npm, JWT
-<p align="center"> 
+<p>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> 
     </a>
@@ -31,16 +27,24 @@ I'm a passionate MERN (MongoDB, Express.js, React.js, Node.js) stack web develop
     </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> 
-    </a> <br> <br>
+    </a>
+</p>
+
+- **Backend:** Node.js, Express.js 
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> 
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/naimur8606/naimur8606/blob/main/Images/expressjs_logo.png?raw=true" alt="express" width="70" height="60"/> 
-    </a>  
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    </a>
+
+- **Database:** MongoDB   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> 
-    </a> <br><br>
+    </a>
+
+- **Version Control:** Git, GitHub
+- **Other:** RESTful APIs, JSON, npm, JWT
+<p align="center"> 
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> 
     </a> 
