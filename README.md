@@ -141,7 +141,9 @@ This website implements private routing for authorized users, featuring login op
 - **Live Site:** [live Link](https://wedding-management-cb140.web.app/)
 - **Website Code:** [Go to Code](https://github.com/naimur8606/Event-Management)
 
-<br><br>
+<br>
+
+# # # #
 
 Feel free to reach out if you have any questions, suggestions, or just want to chat about technology and web development. I'm always open to new opportunities and collaborations!
 
