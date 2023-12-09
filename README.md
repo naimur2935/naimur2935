@@ -13,7 +13,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naimur8606&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
-<a align='center' href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=naimur8606&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
+<p align='center'><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=naimur8606&theme=transparent&hide_border=true" alt="GitHub Streak" /></a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
