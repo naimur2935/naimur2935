@@ -107,6 +107,41 @@ I'm always eager to expand my knowledge and currently learning `Next.JS` .
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naimur8606&theme=transparent" alt="Most Commit Language">
 </p>
 
+<br>
+
+## 🚀 Assignment Communication
+
+This React.js one-page website features a homepage with sections for banner, features, assignments, FAQ, and a footer. The Assignments page offers assignment display by level and a pagination feature. The Assignment Details page provides a PDF download option for requirements and a submission section with fields for PDF and short notes. CRUD options include adding, updating, and deleting assignments, marking submitted assignments, and viewing assignment details on the My Assignments page.
+
+- **Live Site:** [live Link](https://assignmentcommunication.web.app/)
+- **Client Code:** [Go to Code](https://github.com/naimur8606/Assignment-Publications-client-site)
+- **Server Code:** [Go to Code](https://github.com/naimur8606/Assignment-Publications-server-site)
+
+
+## 🚀 EstateEcho
+
+This React.js website employs HTML, CSS, Tailwind CSS, daisyUI, JS, ReactJS, and NPM packages, utilizing React components. It caters to three user types: Admin, Agent, and User. Features include login, account creation, and Google Popup login. The platform boasts distinct dashboards for Admin, Agent, and User, property details, adding properties, and booking/payment functionalities.
+
+- **Live Site:** [live Link](https://estate-echo.web.app/)
+- **Client Code:** [Go to Code](https://github.com/naimur8606/EstateEcho-Realestate-client-site)
+- **Server Code:** [Go to Code](https://github.com/naimur8606/EstateEcho-Realestate-server-site)
+
+## 🚀 Sob Dokander
+
+This is a React base website. This website showcases six product categories, including Fashion & Apparel, Electronics & Gadgets, Home & Makeover, Sports & Outdoors, Books & Stationery, and Groceries & Food. It features a Flash sale section, allows users to add products, manage a cart with product selection and removal, employs a private route system, and incorporates user creation and authentication via Firebase.
+
+- **Live Site:** [live Link](https://sobdokander.web.app/)
+- **Client Code:** [Go to Code](https://github.com/naimur8606/E-Commerce-web1-client)
+- **Server Code:** [Go to Code](https://github.com/naimur8606/E-Commerce-web1-server)
+
+## 🚀 Wedding Management
+
+This website implements private routing for authorized users, featuring login options through traditional credentials, Google, and Github. Additionally, it offers an Album section for visual content and includes sections for contact information and client testimonials.
+
+- **Live Site:** [live Link](https://wedding-management-cb140.web.app/)
+- **Website Code:** [Go to Code](https://github.com/naimur8606/Event-Management)
+
+
 Feel free to reach out if you have any questions, suggestions, or just want to chat about technology and web development. I'm always open to new opportunities and collaborations!
 
 Happy coding! 🚀
