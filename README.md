@@ -110,5 +110,3 @@ I'm always eager to expand my knowledge and currently learning `Next.JS` .
 Feel free to reach out if you have any questions, suggestions, or just want to chat about technology and web development. I'm always open to new opportunities and collaborations!
 
 Happy coding! 🚀
-
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naimur8606&theme=transparent&hide_border=true)](https://git.io/streak-stats) -->
