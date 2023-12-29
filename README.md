@@ -85,6 +85,7 @@ I'm always eager to expand my knowledge and currently learning `Next.JS` .
 
 - **LinkedIn:** [Md Naimur Rahman](https://www.linkedin.com/in/naimur2935/)
 - **Facebook:** [Md Naimur Rahman](https://www.facebook.com/mdnaimurrahman8606/)
+- **Portfolio:** [Md Naimur Rahman](https://portfolio1.freelancernaimur.com/)
 - **Youtube:** [Coding Bangla](http://www.youtube.com/@codingbangla1)
 - **Email:** naimur2935@gmail.com
 
