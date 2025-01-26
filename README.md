@@ -1,4 +1,4 @@
-![logo](https://github.com/naimur2935/naimur2935/blob/main/Images/git%20cover.png?raw=true](https://www.facebook.com/photo/?fbid=419993864059267&set=a.159258466799476)
+![logo](https://github.com/naimur2935/naimur2935/blob/main/Images/git%20cover.png?raw=true)
 
 <h1>Hi there! 👋 I'm Md Naimur Rahman</h1>
 <br>
