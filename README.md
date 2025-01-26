@@ -1,4 +1,4 @@
-![logo](https://github.com/naimur8606/naimur8606/blob/main/Images/git%20cover.png?raw=true)
+![logo](https://github.com/naimur2935/naimur2935/blob/main/Images/git%20cover.png?raw=true)
 
 <h1>Hi there! 👋 I'm Md Naimur Rahman</h1>
 <br>
@@ -14,7 +14,7 @@ I'm a passionate MERN (MongoDB, Express.js, React.js, Node.js) stack web develop
 ## 🚀 Status 
 
 <p align='center'>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=naimur8606&theme=transparent" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=naimur2935&theme=transparent" alt="GitHub Streak" /></a>
 </p>
 
 <br>
@@ -49,7 +49,7 @@ I'm a passionate MERN (MongoDB, Express.js, React.js, Node.js) stack web develop
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> 
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/naimur8606/naimur8606/blob/main/Images/expressjs_logo.png?raw=true" alt="express" width="70" height="60"/> 
+        <img src="https://github.com/naimur2935/naimur2935/blob/main/Images/expressjs_logo.png?raw=true" alt="express" width="70" height="60"/> 
     </a>  
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> 
@@ -84,7 +84,7 @@ I'm always eager to expand my knowledge and currently learning `Next.JS` .
 ## 📫 Let's Connect
 
 - **LinkedIn:** [Md Naimur Rahman](https://www.linkedin.com/in/naimur2935/)
-- **Facebook:** [Md Naimur Rahman](https://www.facebook.com/mdnaimurrahman8606/)
+- **Facebook:** [Md Naimur Rahman](https://www.facebook.com/mdnaimurrahman2935/)
 - **Portfolio:** [Md Naimur Rahman](https://portfolio1.freelancernaimur.com/)
 - **Youtube:** [Coding Bangla](http://www.youtube.com/@codingbangla1)
 - **Email:** naimur2935@gmail.com
@@ -95,17 +95,17 @@ I'm always eager to expand my knowledge and currently learning `Next.JS` .
 
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naimur8606&theme=transparent" alt="GitHub Profile Summary Cards">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naimur2935&theme=transparent" alt="GitHub Profile Summary Cards">
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naimur8606&theme=transparent" alt="Repos per Language">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naimur8606&theme=transparent" alt="Most Commit Language">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naimur2935&theme=transparent" alt="Repos per Language">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naimur2935&theme=transparent" alt="Most Commit Language">
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naimur8606&theme=transparent&utcOffset=8" alt="Repos per Language">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naimur8606&theme=transparent" alt="Most Commit Language">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naimur2935&theme=transparent&utcOffset=8" alt="Repos per Language">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naimur2935&theme=transparent" alt="Most Commit Language">
 </p>
 
 <br>
@@ -115,8 +115,8 @@ I'm always eager to expand my knowledge and currently learning `Next.JS` .
 This React.js one-page website features a homepage with sections for banner, features, assignments, FAQ, and a footer. The Assignments page offers assignment display by level and a pagination feature. The Assignment Details page provides a PDF download option for requirements and a submission section with fields for PDF and short notes. CRUD options include adding, updating, and deleting assignments, marking submitted assignments, and viewing assignment details on the My Assignments page.
 
 - **Live Site:** [live Link](https://assignmentcommunication.web.app/)
-- **Client Code:** [Go to Code](https://github.com/naimur8606/Assignment-Publications-client-site)
-- **Server Code:** [Go to Code](https://github.com/naimur8606/Assignment-Publications-server-site)
+- **Client Code:** [Go to Code](https://github.com/naimur2935/Assignment-Publications-client-site)
+- **Server Code:** [Go to Code](https://github.com/naimur2935/Assignment-Publications-server-site)
 
 
 ## 🚀 EstateEcho
@@ -124,23 +124,23 @@ This React.js one-page website features a homepage with sections for banner, fea
 This React.js website employs HTML, CSS, Tailwind CSS, daisyUI, JS, ReactJS, and NPM packages, utilizing React components. It caters to three user types: Admin, Agent, and User. Features include login, account creation, and Google Popup login. The platform boasts distinct dashboards for Admin, Agent, and User, property details, adding properties, and booking/payment functionalities.
 
 - **Live Site:** [live Link](https://estate-echo.web.app/)
-- **Client Code:** [Go to Code](https://github.com/naimur8606/EstateEcho-Realestate-client-site)
-- **Server Code:** [Go to Code](https://github.com/naimur8606/EstateEcho-Realestate-server-site)
+- **Client Code:** [Go to Code](https://github.com/naimur2935/EstateEcho-Realestate-client-site)
+- **Server Code:** [Go to Code](https://github.com/naimur2935/EstateEcho-Realestate-server-site)
 
 ## 🚀 Sob Dokander
 
 This is a React base website. This website showcases six product categories, including Fashion & Apparel, Electronics & Gadgets, Home & Makeover, Sports & Outdoors, Books & Stationery, and Groceries & Food. It features a Flash sale section, allows users to add products, manage a cart with product selection and removal, employs a private route system, and incorporates user creation and authentication via Firebase.
 
 - **Live Site:** [live Link](https://sobdokander.web.app/)
-- **Client Code:** [Go to Code](https://github.com/naimur8606/E-Commerce-web1-client)
-- **Server Code:** [Go to Code](https://github.com/naimur8606/E-Commerce-web1-server)
+- **Client Code:** [Go to Code](https://github.com/naimur2935/E-Commerce-web1-client)
+- **Server Code:** [Go to Code](https://github.com/naimur2935/E-Commerce-web1-server)
 
 ## 🚀 Wedding Management
 
 This website implements private routing for authorized users, featuring login options through traditional credentials, Google, and Github. Additionally, it offers an Album section for visual content and includes sections for contact information and client testimonials.
 
 - **Live Site:** [live Link](https://wedding-management-cb140.web.app/)
-- **Website Code:** [Go to Code](https://github.com/naimur8606/Event-Management)
+- **Website Code:** [Go to Code](https://github.com/naimur2935/Event-Management)
 
 <br>
 
