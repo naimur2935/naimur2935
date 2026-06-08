@@ -1,95 +1,97 @@
-![logo](https://github.com/naimur2935/naimur2935/blob/main/Images/Md-Naimur-Rahman-naimur2935.jpg.png?raw=true)
+# 👋 Hi, I'm Md Naimur Rahman
 
-<h1>Hi there! 👋 I'm Md Naimur Rahman</h1>
-<br>
+### 🚀 Full Stack Developer | SaaS Builder | DevOps Enthusiast
 
-## 🧑‍💻 About Me
+<div align="center">
 
+<img src="https://github.com/naimur2935/naimur2935/blob/main/Images/Md-Naimur-Rahman-naimur2935.jpg.png?raw=true" width="100%" />
 
-<h3>
-I'm a passionate MERN (MongoDB, Express.js, React.js, Node.js) stack web developer with a keen interest in creating scalable and efficient web applications. I love turning ideas into reality through the power of code.
-</h3>
-<br>
+</div>
 
-## 🚀 Status 
+---
 
-<p align='center'>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=naimur2935&theme=transparent" alt="GitHub Streak" /></a>
+# 🧑‍💻 About Me
+
+- 🚀 3+ years experienced Full Stack Developer
+- 💻 Specialized in MERN Stack & Next.js Development
+- ⚡ Building scalable SaaS applications & business systems
+- 🌐 Working with international freelance clients
+- 🛠 Experienced in DevOps & VPS Management
+- 📚 Passionate about modern web technologies & clean UI/UX
+
+---
+
+# 🚀 What I Build
+
+- SaaS Platforms
+- ERP Systems
+- LMS Platforms
+- University Management Systems
+- Admin Dashboards
+- E-Commerce Platforms
+- AI Integrated Systems
+- Custom Business Applications
+
+---
+
+# 💻 Tech Stack
+
+## 🚀 Frontend
+- React.js
+- Next.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- Bootstrap
+- Framer Motion
+
+## ⚙️ Backend
+- Node.js
+- Express.js
+- REST APIs
+- Authentication Systems
+- JWT
+
+## 🗄 Database
+- MongoDB
+- MySQL
+- PostgreSQL
+- Supabase
+- NoSQL Architecture
+
+## 🌐 Platforms
+- Webflow
+- Shopify
+- Framer
+- WordPress
+
+## ⚙️ DevOps & Infrastructure
+- VPS Management
+- CI/CD
+- Docker
+- Nginx
+- Cloudflare
+- GitHub Actions
+
+---
+
+# 🛠 Technologies & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,mysql,postgres,supabase,tailwind,bootstrap,html,css,figma,firebase,git,github,docker,vscode,cloudflare" />
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=naimur2935&theme=transparent" />
 </p>
 
-<br>
-
-## 💻 Technologies & Tools 
-
-- **Frontend:** React.js, HTML, CSS, JavaScript, Tailwind CSS, Bootstrap
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Version Control:** Git, GitHub
-- **Other:** RESTful APIs, JSON, npm, JWT
-<p align="left"> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> 
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> 
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> 
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> 
-    </a> 
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> 
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> 
-    </a> <br> <br>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> 
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/naimur2935/naimur2935/blob/main/Images/expressjs_logo.png?raw=true" alt="express" width="70" height="60"/> 
-    </a>  
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> 
-    </a> <br> <br>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> 
-    </a> 
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/> 
-    </a>   
-</p>
-
-<!-- ## 🚀 What I'm Currently Working On
-
-I'm currently working on [project name], where I'm [brief description of your current project]. I'm excited about [mention any challenges or interesting aspects of your project]. -->
-<br>
-
-## 🔧 Skills
-
-- **Web Development:** Full-stack development, responsive design, RESTful APIs
-- **Tools:** Visual Studio Code, Git, Postman
-- **Soft Skills:** Problem-solving, teamwork, communication
-
-<br>
-
-## 🌱 What I'm Learning
-
-I'm always eager to expand my knowledge and currently learning `Next.JS` .
-
-<br>
-
-## 📫 Let's Connect
-
-- **LinkedIn:** [Md Naimur Rahman](https://www.linkedin.com/in/naimur2935/)
-- **Facebook:** [Md Naimur Rahman](https://www.facebook.com/mdnaimurrahman2935/)
-- **Portfolio:** [Md Naimur Rahman](https://portfolio1.freelancernaimur.com/)
-- **Youtube:** [Coding Bangla](http://www.youtube.com/@codingbangla1)
-- **Email:** naimur2935@gmail.com
-
-<br>
+---
 
 ## 🚀 Summary 
 
@@ -110,8 +112,29 @@ I'm always eager to expand my knowledge and currently learning `Next.JS` .
 
 <br>
 
-# # # #
+---
 
-Feel free to reach out if you have any questions, suggestions, or just want to chat about technology and web development. I'm always open to new opportunities and collaborations!
+# 🌱 Currently Exploring
 
-Happy coding! 🚀
+- Advanced Next.js Architecture
+- Scalable SaaS Infrastructure
+- AI Workflow Integration
+- DevOps Automation
+- Cloud Systems
+
+---
+
+# 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/naimur2935/
+- 📺 YouTube: http://www.youtube.com/@nextdevgen
+- 📘 Facebook: https://www.facebook.com/naimur2935
+- 📧 Email: naimur2935@gmail.com
+
+---
+
+<div align="center">
+
+### ⚡ Building Modern Digital Experiences For The Future
+
+</div>
