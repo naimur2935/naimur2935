@@ -21,6 +21,15 @@
 
 ---
 
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=naimur2935&theme=transparent" />
+</p>
+
+---
+
+
 # 🚀 What I Build
 
 - SaaS Platforms
@@ -82,14 +91,6 @@
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,mysql,postgres,supabase,tailwind,bootstrap,html,css,figma,firebase,git,github,docker,vscode,cloudflare" />
 
 </div>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=naimur2935&theme=transparent" />
-</p>
 
 ---
 
