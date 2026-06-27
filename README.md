@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://github.com/naimur2935/naimur2935/blob/main/Images/Md-Naimur-Rahman-naimur2935.jpg.png?raw=true" width="100%" />
+<img src="https://raw.githubusercontent.com/naimur2935/naimur2935/refs/heads/main/Images/md-naimur-rahman%20github-cover%20naimur2935.png" width="100%" />
 
 </div>
 
